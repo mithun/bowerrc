@@ -1,0 +1,14 @@
+{
+   "break-chained-methods" : true,
+   "comma-first" : true,
+   "end-with-newline" : true,
+   "good-stuff" : true,
+   "indent-size" : 4,
+   "jslint-happy" : true,
+   "quiet" : false,
+   "replace" : true,
+   "space-in-paren" : true,
+   "space_after_anon_function" : true,
+   "type" : "js",
+   "wrap-line-length" : 76
+}

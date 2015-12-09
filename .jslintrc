@@ -1,0 +1,9 @@
+{
+   "color" : true,
+   "evil" : false,
+   "node" : true,
+   "passfail" : false,
+   "predef" : "module,require",
+   "stupid" : true,
+   "vars" : true
+}

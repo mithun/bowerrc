@@ -1,0 +1,38 @@
+{
+   "author" : "Mithun Ayachit <m0t0rbr3th@gmail.com>",
+   "bin" : {
+      "bowerrc" : "./bowerrc.js"
+   },
+   "bugs" : {
+      "url" : "https://github.com/mithun/bowerrc/issues"
+   },
+   "dependencies" : {
+      "exit" : "0.1.2",
+      "fs-extra" : "0.26.2",
+      "home-dir" : "1.0.0",
+      "is-there" : "4.3.0"
+   },
+   "description" : "Switch between different .bowerrc files",
+   "devDependencies" : {
+      "exec" : "0.2.1",
+      "js-beautify" : "1.5.10",
+      "jslint" : "0.9.5",
+      "mocha" : "2.3.4"
+   },
+   "homepage" : "https://github.com/mithun/bowerrc#readme",
+   "keywords" : [
+      "bower",
+      "utility"
+   ],
+   "license" : "ISC",
+   "name" : "bowerrc",
+   "preferGlobal" : true,
+   "repository" : {
+      "type" : "git",
+      "url" : "git+https://github.com/mithun/bowerrc.git"
+   },
+   "scripts" : {
+      "test" : "node_modules/.bin/mocha --no-deprecation test/test.js"
+   },
+   "version" : "0.1.0"
+}
