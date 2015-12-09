@@ -4,11 +4,11 @@ Switch between multiple `.bowerrc` files
 
 Inspired by [npmrc][].
 
-# Installation
+## Installation
 
     npm install -g bowerrc
 
-# Usage
+## Usage
 
     $ bowerrc --help
 
