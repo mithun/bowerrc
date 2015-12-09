@@ -1,5 +1,7 @@
 # bowerrc
 
+[![Build Status][]][]
+
 Switch between multiple `.bowerrc` files
 
 Inspired by [npmrc][].
@@ -28,4 +30,6 @@ The first time you run `bowerrc`, it will do two things:
 2.  If you have an existing `~/.bowerrc`, it will copy it to
     `~/.bowerrcs/default` and create a symlink for it.
 
+  [Build Status]: https://travis-ci.org/mithun/bowerrc.svg?branch=master
+  [![Build Status][]]: https://travis-ci.org/mithun/bowerrc
   [npmrc]: https://github.com/deoxxa/npmrc

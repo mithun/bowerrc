@@ -1,5 +1,7 @@
 # bowerrc
 
+[![Build Status](https://travis-ci.org/mithun/bowerrc.svg?branch=master)](https://travis-ci.org/mithun/bowerrc)
+
 Switch between multiple `.bowerrc` files
 
 Inspired by [npmrc][].
